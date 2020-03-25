@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `yarn secondary` 
+Run this to begin: this will call the file bashCommitList.sh setting up the backup data. 
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
