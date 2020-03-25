@@ -1,8 +1,11 @@
 import React from 'react'
 
-const Posts = ({ commitList, loading }) => {
+const Posts = ({ commitList, loading, placeholder }) => {
     if (loading) {
-        return <h2>Loading...</h2>
+        return (
+        <button onClick={ () => placeholder() }> Redirect to Local </button>
+        )
+    
     }
     return (
     <ul className="list-group mb-4">
