@@ -1,0 +1,580 @@
+{"commit": "a4aee059ce6b3c3e36c1b27973ab73ff89b11004", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Fri Feb 7 15:51:11 2020 +0000",
+  "message": "Merge-pull-request-45-from-tzimms-touchups"
+},
+{"commit": "69cf80a06588dba7e49a7536ca9c35e92dca93c3", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Fri Feb 7 15:50:02 2020 +0000",
+  "message": "fixed"
+},
+{"commit": "21d15fe2b3fc47f64fd72e1f107a051fc9c38a34", 
+  "author": "tzimms 36903136+tzimms@users.noreply.github.com", 
+  "date": "Fri Feb 7 15:17:58 2020 +0000",
+  "message": "Merge-pull-request-44-from-tzimms-quick"
+},
+{"commit": "08eb3e4931b47590fe801c2dde4be6b1c559e803", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Fri Feb 7 15:17:14 2020 +0000",
+  "message": "delte"
+},
+{"commit": "64a6010314aff20fea37fce60bd819b2efae96bb", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Fri Feb 7 14:56:30 2020 +0000",
+  "message": "Merge-pull-request-43-from-tzimms-nwBranch"
+},
+{"commit": "d7375f7935a3776034ea0d5b726d8b7793d5d191", 
+  "author": "elenaOrtega elenabaura56@gmail.com", 
+  "date": "Fri Feb 7 14:55:21 2020 +0000",
+  "message": "branchname"
+},
+{"commit": "affb3fb013bf35ab8f729baa901c7f2b2f254351", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Fri Feb 7 14:13:32 2020 +0000",
+  "message": "Merge-pull-request-42-from-tzimms-newBranch"
+},
+{"commit": "cdd6aeafc7c4b0f1106925a5ec9f7a702f198d98", 
+  "author": "elenaOrtega elenabaura56@gmail.com", 
+  "date": "Fri Feb 7 14:12:13 2020 +0000",
+  "message": "fix"
+},
+{"commit": "efc6bbecfc172010e244758d7d348110487edeef", 
+  "author": "tzimms 36903136+tzimms@users.noreply.github.com", 
+  "date": "Fri Feb 7 14:08:29 2020 +0000",
+  "message": "Merge-pull-request-41-from-tzimms-date_v3"
+},
+{"commit": "82ca6626ad676ceaf761305f66763e513652f377", 
+  "author": "elenaOrtega elenabaura56@gmail.com", 
+  "date": "Fri Feb 7 14:07:35 2020 +0000",
+  "message": "fixin"
+},
+{"commit": "8d1ec1cd013b5429f57db8fdfe14ddd81b36755f", 
+  "author": "elenaOrtega elenabaura56@gmail.com", 
+  "date": "Fri Feb 7 14:01:44 2020 +0000",
+  "message": "changes"
+},
+{"commit": "7b965eb11b83ff26039dd4df67336fd5ff045824", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Fri Feb 7 13:47:37 2020 +0000",
+  "message": "Merge-pull-request-40-from-tzimms-newF_v6"
+},
+{"commit": "2ddc4d5083536708713553b45c8657a84528c912", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Fri Feb 7 13:46:56 2020 +0000",
+  "message": "Merge-branch-master-into-newF_v6"
+},
+{"commit": "8a6de99ff0bca96302e9b2d0f1bad4c68a1c4d8c", 
+  "author": "elenaOrtega elenabaura56@gmail.com", 
+  "date": "Fri Feb 7 13:38:29 2020 +0000",
+  "message": "changesReservationList"
+},
+{"commit": "96dedf53bef4152e3f47c13ac837b2d2eac02d91", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Fri Feb 7 13:37:55 2020 +0000",
+  "message": "Merge-pull-request-39-from-tzimms-date"
+},
+{"commit": "afcaf2809da510fc45dc03b9de4db0aae534b9b7", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Fri Feb 7 13:36:50 2020 +0000",
+  "message": "fixconflicts"
+},
+{"commit": "915fc8fecacbe484312248c450dfe73baa230f45", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Fri Feb 7 13:33:48 2020 +0000",
+  "message": "delete"
+},
+{"commit": "34d571e675f51c191a03b9b6b67c60be000532e9", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Fri Feb 7 13:23:52 2020 +0000",
+  "message": "Merge-pull-request-38-from-tzimms-FilterBarJs"
+},
+{"commit": "ec828e3f657923a1077776ce6d147d0516f1229f", 
+  "author": "Jxnis janis.ellerbrock@gmail.com", 
+  "date": "Fri Feb 7 13:21:14 2020 +0000",
+  "message": "adds-css-and-js-to-filter-bar"
+},
+{"commit": "08954257bdb4e4402b0b756b77f9150b3e0a2a99", 
+  "author": "tzimms 36903136+tzimms@users.noreply.github.com", 
+  "date": "Fri Feb 7 13:18:39 2020 +0000",
+  "message": "Merge-pull-request-37-from-tzimms-fixingThings"
+},
+{"commit": "319f657a92af09a838fea0c49ba95106cd406d00", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Fri Feb 7 13:16:29 2020 +0000",
+  "message": "Merge-branch-master-into-fixingThings"
+},
+{"commit": "2f42abbf7f030294d7071bd6459a1cfa6ac2f6ca", 
+  "author": "elenaOrtega elenabaura56@gmail.com", 
+  "date": "Fri Feb 7 13:15:11 2020 +0000",
+  "message": "someChanges"
+},
+{"commit": "75f11d95a0d28ff1e0757679f7434e7ecb36e97a", 
+  "author": "tzimms 36903136+tzimms@users.noreply.github.com", 
+  "date": "Fri Feb 7 12:28:49 2020 +0000",
+  "message": "Merge-pull-request-36-from-tzimms-FilterBar"
+},
+{"commit": "4c270d24357085c59741039a6602d6ec425ab675", 
+  "author": "Jxnis janis.ellerbrock@gmail.com", 
+  "date": "Fri Feb 7 12:26:08 2020 +0000",
+  "message": "adds-filter-bar-to-reservationlist"
+},
+{"commit": "7976a45854f8b21fae8a3e53eb35c6bfb844d431", 
+  "author": "tzimms 36903136+tzimms@users.noreply.github.com", 
+  "date": "Fri Feb 7 12:15:08 2020 +0000",
+  "message": "Merge-pull-request-35-from-tzimms-calendarfinal"
+},
+{"commit": "ac185756b6e6e53d517591cd8d5f0f15e5895136", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Fri Feb 7 12:14:53 2020 +0000",
+  "message": "fixconflicts"
+},
+{"commit": "44a281b36ca3939fe231744c02fd785e7d81f229", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Fri Feb 7 12:11:47 2020 +0000",
+  "message": "strings"
+},
+{"commit": "e61c58210142cace97f3a99a1a109898ebad01cd", 
+  "author": "Jxnis94 56155235+Jxnis94@users.noreply.github.com", 
+  "date": "Fri Feb 7 12:00:41 2020 +0000",
+  "message": "Merge-pull-request-34-from-tzimms-newFeautre_v5"
+},
+{"commit": "dc5567904d4b1922ae5c7c31cab96f570ad3f666", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Fri Feb 7 11:58:05 2020 +0000",
+  "message": "Merge-branch-master-into-newFeautre_v5"
+},
+{"commit": "10a9eb28a6c01eff0db64c7332022619210aa727", 
+  "author": "elenaOrtega elenabaura56@gmail.com", 
+  "date": "Fri Feb 7 11:53:00 2020 +0000",
+  "message": "logos"
+},
+{"commit": "df7fed8250869c5664aff6cee1564e301e362d54", 
+  "author": "Jxnis94 56155235+Jxnis94@users.noreply.github.com", 
+  "date": "Fri Feb 7 11:47:25 2020 +0000",
+  "message": "Merge-pull-request-33-from-tzimms-CSSFixes"
+},
+{"commit": "43148de89fbe4a25df95f70f3ae1830e92a3a1da", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Fri Feb 7 11:46:37 2020 +0000",
+  "message": "Merge-pull-request-32-from-tzimms-CalendarDialog"
+},
+{"commit": "35787fad5e30c6378c5425c9a9452f1fc5dc226e", 
+  "author": "Jxnis janis.ellerbrock@gmail.com", 
+  "date": "Fri Feb 7 11:46:02 2020 +0000",
+  "message": "fixes-colors-and-cleans-code"
+},
+{"commit": "59637712f5526f5b54f01980f6178e95f0c07574", 
+  "author": "Jxnis94 56155235+Jxnis94@users.noreply.github.com", 
+  "date": "Fri Feb 7 11:36:12 2020 +0000",
+  "message": "Merge-branch-master-into-CalendarDialog"
+},
+{"commit": "5cb559dd2206e7a737cd477f0a62ff7b6d267d49", 
+  "author": "Jxnis janis.ellerbrock@gmail.com", 
+  "date": "Fri Feb 7 11:28:14 2020 +0000",
+  "message": "fixes-dialog-goes-out-of-container"
+},
+{"commit": "5b99564e721ab4868f4d31eb71a4e6f36062534b", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Fri Feb 7 11:13:49 2020 +0000",
+  "message": "Merge-pull-request-31-from-tzimms-postForm"
+},
+{"commit": "c6f867a931fe92aff012766a54ace311576c4fc8", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Fri Feb 7 11:13:40 2020 +0000",
+  "message": "Merge-branch-master-into-postForm"
+},
+{"commit": "daaaf4c625c4caaf1a154d76286d6a2af79e7998", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Fri Feb 7 11:12:36 2020 +0000",
+  "message": "Merge-pull-request-30-from-tzimms-calendartiem"
+},
+{"commit": "3fff182291ae0304db47763c918192b75d6a116c", 
+  "author": "elenaOrtega elenabaura56@gmail.com", 
+  "date": "Fri Feb 7 11:11:38 2020 +0000",
+  "message": "metaTag"
+},
+{"commit": "0c45ad65450326eecc49cabc5b81c9e46a77c6c3", 
+  "author": "elenaOrtega elenabaura56@gmail.com", 
+  "date": "Fri Feb 7 11:09:28 2020 +0000",
+  "message": "postForm"
+},
+{"commit": "25f98cd864015bb30ecd10663d8e426216c362c0", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Fri Feb 7 11:08:25 2020 +0000",
+  "message": "cssedits"
+},
+{"commit": "2a18e43cfa66e772e6a3b7b59e2f989fcdc36ba9", 
+  "author": "Jxnis94 56155235+Jxnis94@users.noreply.github.com", 
+  "date": "Fri Feb 7 11:00:36 2020 +0000",
+  "message": "Merge-pull-request-29-from-tzimms-calendardatabase"
+},
+{"commit": "3755289ab44b255fc096e8d2d01f7bbd7f06372e", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Fri Feb 7 10:58:42 2020 +0000",
+  "message": "databaseappears"
+},
+{"commit": "59d106a043701e5e97eb46c4ca4380f20d1eac4e", 
+  "author": "Jxnis94 56155235+Jxnis94@users.noreply.github.com", 
+  "date": "Fri Feb 7 10:47:26 2020 +0000",
+  "message": "Merge-pull-request-28-from-tzimms-calendarattempt"
+},
+{"commit": "0e954cdff29bd2ce4a55ed80314ef94d2f71b9d7", 
+  "author": "tzimms 36903136+tzimms@users.noreply.github.com", 
+  "date": "Fri Feb 7 10:47:20 2020 +0000",
+  "message": "Merge-pull-request-27-from-tzimms-ToriaReserv"
+},
+{"commit": "4bb81aad15b0b8cc67e8e9c02269762146271a3b", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Fri Feb 7 10:46:14 2020 +0000",
+  "message": "conflict"
+},
+{"commit": "aff8886588d85a40195bef8d9a4648a0b5425d0b", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Fri Feb 7 10:42:22 2020 +0000",
+  "message": "calendersending"
+},
+{"commit": "1969af0e82ddafb392ada15cb8c347196bad72fa", 
+  "author": "Jxnis janis.ellerbrock@gmail.com", 
+  "date": "Thu Feb 6 22:05:56 2020 +0000",
+  "message": "adds-reservationstyles"
+},
+{"commit": "217925f8b681c85a62ced0c4172fdad6235bffa4", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Thu Feb 6 21:26:24 2020 +0000",
+  "message": "Merge-pull-request-26-from-tzimms-CalendarDisplayUpdate"
+},
+{"commit": "702245f05698cecfee0e4b7023b3fdb74155f581", 
+  "author": "Jxnis94 56155235+Jxnis94@users.noreply.github.com", 
+  "date": "Thu Feb 6 21:25:39 2020 +0000",
+  "message": "Merge-pull-request-24-from-tzimms-filteringgetall"
+},
+{"commit": "433877335e0de10993c250addb899c2eb83b3594", 
+  "author": "Jxnis janis.ellerbrock@gmail.com", 
+  "date": "Thu Feb 6 21:20:00 2020 +0000",
+  "message": "adds-time-inputs-to-calendar"
+},
+{"commit": "fd84739ade9ad05eebd56379a3f62db00e12932e", 
+  "author": "Jxnis94 56155235+Jxnis94@users.noreply.github.com", 
+  "date": "Thu Feb 6 20:46:05 2020 +0000",
+  "message": "Merge-branch-master-into-filteringgetall"
+},
+{"commit": "cc3874cbfea822750502ec996fdcfe6f65fbda7a", 
+  "author": "Jxnis94 56155235+Jxnis94@users.noreply.github.com", 
+  "date": "Thu Feb 6 20:45:08 2020 +0000",
+  "message": "Merge-pull-request-25-from-tzimms-CalendarDataDisplay"
+},
+{"commit": "fd8358699a04447bd878769fe3c7e673ccd4687a", 
+  "author": "Jxnis94 56155235+Jxnis94@users.noreply.github.com", 
+  "date": "Thu Feb 6 20:44:11 2020 +0000",
+  "message": "Merge-branch-master-into-CalendarDataDisplay"
+},
+{"commit": "156c219681c124f577b054d47c08e19784623ab5", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Thu Feb 6 20:42:40 2020 +0000",
+  "message": "conflict"
+},
+{"commit": "8ffacb0c2263b55efecdc068353028c6218e2011", 
+  "author": "Jxnis janis.ellerbrock@gmail.com", 
+  "date": "Thu Feb 6 20:42:11 2020 +0000",
+  "message": "adds-the-start-and-end-time-to-index-pug"
+},
+{"commit": "119528f1c89ff353a468a5d4878869bd9dcc461a", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Thu Feb 6 20:41:16 2020 +0000",
+  "message": "cssefforts"
+},
+{"commit": "12b00b561ed9b1be0716f9a904dd24be6ff8f141", 
+  "author": "tzimms 36903136+tzimms@users.noreply.github.com", 
+  "date": "Thu Feb 6 20:16:51 2020 +0000",
+  "message": "Merge-pull-request-23-from-tzimms-map"
+},
+{"commit": "83c97029b2b4e5340a07afba54b5ac0bc5ccbb93", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Thu Feb 6 20:16:25 2020 +0000",
+  "message": "Merge-branch-master-into-map"
+},
+{"commit": "12c8a828814a579d09f34e1a2d0567e04179698e", 
+  "author": "elenaOrtega elenabaura56@gmail.com", 
+  "date": "Thu Feb 6 20:14:59 2020 +0000",
+  "message": "mapFeauture"
+},
+{"commit": "9fcad74fac89000d97cd51cfcb952e00376d5e55", 
+  "author": "Jxnis94 56155235+Jxnis94@users.noreply.github.com", 
+  "date": "Thu Feb 6 19:03:53 2020 +0000",
+  "message": "Merge-pull-request-22-from-tzimms-checkin"
+},
+{"commit": "ddadef67eccd01c3cb2d0b2fabab1f49db6ba13b", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Thu Feb 6 19:03:03 2020 +0000",
+  "message": "checkinout"
+},
+{"commit": "65d55eaf862a9c7918eb94b48b89d7d32a659a48", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Thu Feb 6 18:57:54 2020 +0000",
+  "message": "Merge-pull-request-21-from-tzimms-BookingFormDatav1"
+},
+{"commit": "26f686c1f94d3e6ffc1d8f82730465b5c14e17ae", 
+  "author": "Jxnis janis.ellerbrock@gmail.com", 
+  "date": "Thu Feb 6 18:55:10 2020 +0000",
+  "message": "displays-the-data-inside-bookingform"
+},
+{"commit": "6864e56fa0fa9a771cd682d7cd581d6de0369802", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Thu Feb 6 18:18:46 2020 +0000",
+  "message": "Merge-pull-request-20-from-tzimms-mapFeature"
+},
+{"commit": "05a0fb00c1187532eb51bd49243fa38988114f2d", 
+  "author": "elenaOrtega elenabaura56@gmail.com", 
+  "date": "Thu Feb 6 18:08:31 2020 +0000",
+  "message": "geoInputAutocomplete"
+},
+{"commit": "41c7378088a9d0c05c11af74bd1a8d08aa8937b3", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Thu Feb 6 17:13:47 2020 +0000",
+  "message": "Merge-pull-request-19-from-tzimms-BookingFormFix"
+},
+{"commit": "0552c19e77d0a77b013a392d6e2f0246634f8b45", 
+  "author": "Jxnis janis.ellerbrock@gmail.com", 
+  "date": "Thu Feb 6 17:10:37 2020 +0000",
+  "message": "fixes-the-undefined-error-with-vehicles"
+},
+{"commit": "875c79c1afe02f251c0b2046c61ad3cecb62a246", 
+  "author": "Jxnis94 56155235+Jxnis94@users.noreply.github.com", 
+  "date": "Thu Feb 6 16:30:23 2020 +0000",
+  "message": "Merge-pull-request-18-from-tzimms-filter"
+},
+{"commit": "bf8fc105ceaacd58044c81e280ce47d5059eff9a", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Thu Feb 6 16:28:16 2020 +0000",
+  "message": "fixconflicts"
+},
+{"commit": "ce33308db3f2f103944f5fa8bb662c38d6381ef1", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Thu Feb 6 16:24:07 2020 +0000",
+  "message": "styled"
+},
+{"commit": "598333e40364fe1d8266e6d4c94d3c4e0debc609", 
+  "author": "tzimms 36903136+tzimms@users.noreply.github.com", 
+  "date": "Thu Feb 6 16:23:54 2020 +0000",
+  "message": "Merge-pull-request-17-from-tzimms-SendingCalendarData"
+},
+{"commit": "ec0737135ae067dbb24fba721b03ce479e31d14b", 
+  "author": "Jxnis94 56155235+Jxnis94@users.noreply.github.com", 
+  "date": "Thu Feb 6 16:23:20 2020 +0000",
+  "message": "Merge-branch-master-into-SendingCalendarData"
+},
+{"commit": "0cde57931a7c547ade7ceddd1bc8180731814f3b", 
+  "author": "Jxnis janis.ellerbrock@gmail.com", 
+  "date": "Thu Feb 6 16:20:30 2020 +0000",
+  "message": "adds-sending-data-feature-to-index-page"
+},
+{"commit": "3376572ebc9b3593457c8d43cd829a3db4666045", 
+  "author": "Jxnis94 56155235+Jxnis94@users.noreply.github.com", 
+  "date": "Thu Feb 6 14:56:15 2020 +0000",
+  "message": "Merge-pull-request-16-from-tzimms-selectModel"
+},
+{"commit": "c078597c9b948c982a1a0dfcac9159000b1fbffd", 
+  "author": "elenaOrtega elenabaura56@gmail.com", 
+  "date": "Thu Feb 6 13:38:45 2020 +0000",
+  "message": "modelSelected"
+},
+{"commit": "af6a3f983b5059b63fffdedc6ed34df3f501d71a", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Thu Feb 6 12:41:29 2020 +0000",
+  "message": "Merge-pull-request-15-from-tzimms-reservations"
+},
+{"commit": "99defa3f99c106fb7db4d92a992ff510637c00c0", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Thu Feb 6 12:40:14 2020 +0000",
+  "message": "reservations"
+},
+{"commit": "e929491841f02df2439fbd92bf5918f0cf20c262", 
+  "author": "Jxnis94 56155235+Jxnis94@users.noreply.github.com", 
+  "date": "Thu Feb 6 11:55:09 2020 +0000",
+  "message": "Merge-pull-request-14-from-tzimms-bookingForm_v1"
+},
+{"commit": "99cda8e4b15ca0263e2ca798d9a8de1272d5ceef", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Thu Feb 6 11:52:34 2020 +0000",
+  "message": "Merge-branch-master-into-bookingForm_v1"
+},
+{"commit": "3457cf6781e7cd98ea8067304857fb7f3b017158", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Thu Feb 6 11:46:24 2020 +0000",
+  "message": "Merge-pull-request-13-from-tzimms-CalendarFixesv1"
+},
+{"commit": "5cf07d916aac5385671532bd8596925ce470b483", 
+  "author": "Jxnis janis.ellerbrock@gmail.com", 
+  "date": "Thu Feb 6 11:45:18 2020 +0000",
+  "message": "adds-new-background-color-changes-js"
+},
+{"commit": "c66603c5fe4ee7b0f8d6ae82b09c2fe615ae0582", 
+  "author": "elenaOrtega elenabaura56@gmail.com", 
+  "date": "Thu Feb 6 11:45:13 2020 +0000",
+  "message": "bookingForm_v1"
+},
+{"commit": "41f2b529803588d82204940e0d64d142753de29c", 
+  "author": "Jxnis janis.ellerbrock@gmail.com", 
+  "date": "Thu Feb 6 10:27:54 2020 +0000",
+  "message": "adds-javascript-to-calendar"
+},
+{"commit": "3e92c66af836cbabce440aec21fa053fa43aa8c7", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Thu Feb 6 09:53:16 2020 +0000",
+  "message": "Merge-pull-request-12-from-tzimms-Calendarv2"
+},
+{"commit": "52f0b0dff10573157b89d61bbd724de227766f20", 
+  "author": "Jxnis janis.ellerbrock@gmail.com", 
+  "date": "Thu Feb 6 09:51:41 2020 +0000",
+  "message": "layout-and-js-fixes"
+},
+{"commit": "cbdc667c499dde07ff03312a84cefd9f88ef7968", 
+  "author": "tzimms 36903136+tzimms@users.noreply.github.com", 
+  "date": "Thu Feb 6 09:36:08 2020 +0000",
+  "message": "Update-README.md"
+},
+{"commit": "cc6a9285dcfffc393b9cd3f9e617d4992888fdac", 
+  "author": "tzimms 36903136+tzimms@users.noreply.github.com", 
+  "date": "Thu Feb 6 09:33:11 2020 +0000",
+  "message": "Update-README.md"
+},
+{"commit": "434365fa6595cf20092be05f1be4adf4cac6321c", 
+  "author": "tzimms 36903136+tzimms@users.noreply.github.com", 
+  "date": "Wed Feb 5 19:30:20 2020 +0000",
+  "message": "Merge-pull-request-11-from-tzimms-Calendarv1"
+},
+{"commit": "de1fea70a07fd5462765faea011198f246b9dd19", 
+  "author": "Jxnis janis.ellerbrock@gmail.com", 
+  "date": "Wed Feb 5 19:28:49 2020 +0000",
+  "message": "adds-first-calendar-layout-to-index"
+},
+{"commit": "333c0dbb3a188e7ab0fde12d8d05f26ca6a3c7fd", 
+  "author": "tzimms 36903136+tzimms@users.noreply.github.com", 
+  "date": "Wed Feb 5 19:18:46 2020 +0000",
+  "message": "Merge-pull-request-9-from-tzimms-vehicle-controller"
+},
+{"commit": "83d3aa963436f2c50afb89d8ab41dcc65eefc0fe", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Wed Feb 5 19:18:35 2020 +0000",
+  "message": "Merge-pull-request-10-from-tzimms-bookingupdates"
+},
+{"commit": "e95d47b6d36979aab3bc1b13f065fde7ccd2af2f", 
+  "author": "elenaOrtega elenabaura56@gmail.com", 
+  "date": "Wed Feb 5 19:17:36 2020 +0000",
+  "message": "fix-conflicts"
+},
+{"commit": "3e1f91194718bd3ecc1d34b2417053411dadcb86", 
+  "author": "elenaOrtega elenabaura56@gmail.com", 
+  "date": "Wed Feb 5 19:14:31 2020 +0000",
+  "message": "vehicle-controller"
+},
+{"commit": "53b0789f163498557dc29c7e1afc140c80caea63", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Wed Feb 5 19:13:55 2020 +0000",
+  "message": "bookingupdates"
+},
+{"commit": "bad5e87c4f7c2320b49a6520fd1c79082f014d57", 
+  "author": "tzimms 36903136+tzimms@users.noreply.github.com", 
+  "date": "Wed Feb 5 18:40:51 2020 +0000",
+  "message": "Merge-pull-request-8-from-tzimms-bookingroutes"
+},
+{"commit": "3acbd5d1a350bdff2e4ac9b28fd60f555e3e84af", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Wed Feb 5 18:35:26 2020 +0000",
+  "message": "bookingcreate"
+},
+{"commit": "29dfbde2a14224d8bbbcca29ebaf04ea39046c9a", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Wed Feb 5 17:05:18 2020 +0000",
+  "message": "Merge-pull-request-7-from-tzimms-routes"
+},
+{"commit": "710b4209b3667c73bd09882475834ee5e0cb0f74", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Wed Feb 5 17:04:26 2020 +0000",
+  "message": "fixconflicts"
+},
+{"commit": "505be5ad36f1767c4c4e3a962b763631356138e1", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Wed Feb 5 17:02:51 2020 +0000",
+  "message": "routes"
+},
+{"commit": "ac9fcfeece9f3ad18503d291a82302f0cc1a558f", 
+  "author": "Jxnis94 56155235+Jxnis94@users.noreply.github.com", 
+  "date": "Wed Feb 5 16:45:45 2020 +0000",
+  "message": "Merge-pull-request-6-from-tzimms-newFeature_v2"
+},
+{"commit": "97e1b011c01dc9b10350ed97962c4e39ea809915", 
+  "author": "elenaOrtega elenabaura56@gmail.com", 
+  "date": "Wed Feb 5 16:43:48 2020 +0000",
+  "message": "key"
+},
+{"commit": "c100c7b8314f3ac37aef7ae411c808abcd507394", 
+  "author": "elenaOrtega elenabaura56@gmail.com", 
+  "date": "Wed Feb 5 16:40:12 2020 +0000",
+  "message": "someDBModifications"
+},
+{"commit": "c0be5ab751004197b5fb0136fff04590bee0c20c", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Wed Feb 5 16:26:30 2020 +0000",
+  "message": "renders"
+},
+{"commit": "6d0c4a5584df88d78a98cd4701bc8634bb7a89d2", 
+  "author": "Jxnis94 56155235+Jxnis94@users.noreply.github.com", 
+  "date": "Wed Feb 5 15:49:37 2020 +0000",
+  "message": "Merge-pull-request-5-from-tzimms-moreroute"
+},
+{"commit": "262f6023a78962d9ca0687ea5db65364be8bbf0d", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Wed Feb 5 15:47:30 2020 +0000",
+  "message": "databasefix"
+},
+{"commit": "e83208270b9565911dddaf4d130493d92514673a", 
+  "author": "tzimms 36903136+tzimms@users.noreply.github.com", 
+  "date": "Wed Feb 5 15:29:15 2020 +0000",
+  "message": "Merge-pull-request-4-from-tzimms-csslinks"
+},
+{"commit": "236603562819a67679ea869a0716705d9a46d741", 
+  "author": "Jxnis janis.ellerbrock@gmail.com", 
+  "date": "Wed Feb 5 15:28:22 2020 +0000",
+  "message": "adds-links-to-layout"
+},
+{"commit": "3a198e4ba3af71c821bffcc5aa3d6487211bd626", 
+  "author": "tzimms 36903136+tzimms@users.noreply.github.com", 
+  "date": "Wed Feb 5 15:16:38 2020 +0000",
+  "message": "Merge-pull-request-3-from-tzimms-setup"
+},
+{"commit": "27da7bdcbf5808c0e8a4554e0c673ded73d7d55b", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Wed Feb 5 15:15:25 2020 +0000",
+  "message": "dbcreatedropseed"
+},
+{"commit": "11f95646e8a683c83f1f60620d832c09e8025b46", 
+  "author": "Jxnis94 56155235+Jxnis94@users.noreply.github.com", 
+  "date": "Wed Feb 5 14:27:10 2020 +0000",
+  "message": "Merge-pull-request-2-from-tzimms-FirstCss"
+},
+{"commit": "88399b9633883274f57960eec8c8a53fa9e10273", 
+  "author": "Jxnis janis.ellerbrock@gmail.com", 
+  "date": "Wed Feb 5 14:25:32 2020 +0000",
+  "message": "first-lines"
+},
+{"commit": "987322bf7e5c08222af569120685f0afa9cb6fee", 
+  "author": "eobwebdevelop 48945953+eobwebdevelop@users.noreply.github.com", 
+  "date": "Wed Feb 5 12:53:16 2020 +0000",
+  "message": "Merge-pull-request-1-from-tzimms-Routes"
+},
+{"commit": "df1a2e2d64cb4df2808334a66fd5bf38d7a8d96e", 
+  "author": "elenaOrtega elenabaura56@gmail.com", 
+  "date": "Wed Feb 5 12:52:18 2020 +0000",
+  "message": "viewStructure"
+},
+{"commit": "3b4c138f8cd3dd9f03d5a09584ce703867c39250", 
+  "author": "elenaOrtega elenabaura56@gmail.com", 
+  "date": "Wed Feb 5 12:45:55 2020 +0000",
+  "message": "MVCStructure"
+},
+{"commit": "ee09793ee825238a980766b10843f4b62b2e1c8f", 
+  "author": "Toria tzimms7@gmail.com", 
+  "date": "Wed Feb 5 11:49:46 2020 +0000",
+  "message": "first-commit"
+},

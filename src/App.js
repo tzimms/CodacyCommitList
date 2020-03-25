@@ -2,7 +2,9 @@ import React, { useState, useEffect } from 'react';
 import './App.css';
 import axios from 'axios';
 import Posts from './components/Posts' ;
-import Pagination from './components/Pagination' ;
+import Pagination from './components/Pagination';
+
+
 
 const App = () => {
   const [commitList, setCommitList] = useState([]);
@@ -14,13 +16,24 @@ const App = () => {
   useEffect(() =>{
    const fetchCommitList = async () => {
      setLoading(true); 
-     const res = await axios.get(`https://api.github.com/repos/tzimms/VolkswagenDS/commits`)
+     const res = await axios.get(`https://api.github.com/repos/tzimms/VolkswagenDS/commitsasdfw`)
      setCommitList(res.data)
      setLoading(false);
     }
     fetchCommitList(); 
   }, []);
 
+  const getText = () => {
+    fetch('./commitList.txt')
+    .then(response => response.text())
+    .then(data => { 
+      let trim = "[" + data.replace(/(^,)|(,$)/g, "") +"]"
+      let newData = JSON.parse(trim) 
+      console.log(newData)
+    })
+  }
+// const placeholderData = "["+data.replace(/\n/g, ",")+"]";
+      // console.log(placeholderData)
   const indexOfLastPost = currentPage * postsPerPage; 
   const indexOfFirstPost = indexOfLastPost - postsPerPage;
   const currentPosts = commitList.slice(indexOfFirstPost, indexOfLastPost);
@@ -36,6 +49,7 @@ const App = () => {
       < Posts
         commitList = {currentPosts}
         loading = {loading}
+        placeholder = {getText}
         /> 
        
     </div>
