@@ -5,8 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 
-### `yarn backup`
+### `yarn secondary` 
+
 Run this to begin with part 1: it will run the bash file. The output of this script can be seen in commitlist.txt in the public folder. Then proceed with the next script in order to run the application.
+
 
 
 ### `yarn start`
