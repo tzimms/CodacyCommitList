@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+After Cloning please run npm install. Then proceed with the 2 following scripts. 
+
+### `yarn secondary`
+Before you begin please run Yarn secondary in order to call the Shell Script in bashCommitList.sh: The output for part 1 can be seen in commitList.txt(in the Public folder) it is then parsed to JSON after a fetch call for the file. 
+
+The following script is to run the application 
 ### `yarn start`
 
 Runs the app in the development mode.<br />

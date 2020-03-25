@@ -5,7 +5,6 @@ import Posts from './components/Posts' ;
 import Pagination from './components/Pagination';
 
 
-
 const App = () => {
   const [commitList, setCommitList] = useState([]);
   const [loading, setLoading] = useState(false);
@@ -24,16 +23,15 @@ const App = () => {
   }, []);
 
   const getText = () => {
-    fetch('./commitList.txt')
+  fetch('./commitList.txt')
     .then(response => response.text())
     .then(data => { 
       let trim = "[" + data.replace(/(^,)|(,$)/g, "") +"]"
       let newData = JSON.parse(trim) 
       console.log(newData)
     })
-  }
-// const placeholderData = "["+data.replace(/\n/g, ",")+"]";
-      // console.log(placeholderData)
+  };
+  
   const indexOfLastPost = currentPage * postsPerPage; 
   const indexOfFirstPost = indexOfLastPost - postsPerPage;
   const currentPosts = commitList.slice(indexOfFirstPost, indexOfLastPost);
